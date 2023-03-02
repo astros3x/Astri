@@ -1,7 +1,7 @@
 # Astri
 Astri is a multitool written by me, it contains many options that lead to many useful sites. It will get many updates with more features in the future. I hope it will be useful, enjoy!
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![Discord](https://img.shields.io/discord/1068951240043659365.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/PgNy2ZSQfj)
+\n[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+\n[![Discord](https://img.shields.io/discord/1068951240043659365.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/PgNy2ZSQfj)
 
 
 ## 💻 Usage
