@@ -11,10 +11,10 @@ Astri is a multitool written by me, it contains many options that lead to many u
 - The root password is: 'loop' (invisible input).
 - Input the right number to interact with the menu.
 
-(Only avaible in exe version beacuse the code sucks)
 
 ## :question: Support
 If you have any issues or need help, contantact me on discord 2loop#6969 or just join my server: https://discord.gg/PgNy2ZSQfj
+
 
 ## :warning: Disclaimer
 Please note that the infos the information contained in this program is for educational purposes only and should not be used to unauthorized / illegal activities. The developer and contributors are not responsible for any misuse of this software.
