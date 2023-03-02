@@ -4,8 +4,8 @@ Astri is a multitool written by me, it contains many options that lead to many u
 [![Discord](https://img.shields.io/discord/1068951240043659365.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/PgNy2ZSQfj)
 
 
-### 💻 Usage
-- Download the exe verions from the last [realese](https://github.com/astros3x/Astri/releases/tag/v1.0.0-beta.1).
+## 💻 Usage
+- Download the exe verions from the last [![realese](https://github.com/astros3x/Astri/releases/tag/v1.0.0-beta.1).
 - Execute it.
 - The root password is: 'loop' (invisible input).
 - Input the right number to interact with the menu.
