@@ -1,5 +1,5 @@
 # Astri
-Astri is a multitool written by me, it contains many options that lead to many useful sites. It will get many updates with more features in the future. I hope it will be useful, enjoy! [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+Astri is a multitool written by me, it contains many options that lead to many useful sites. Weekly updates. I hope it will be useful, enjoy! [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 
 ![screen](https://user-images.githubusercontent.com/87500882/222474169-03fa8242-7baa-4f63-9add-95195866d326.png)
