@@ -13,7 +13,7 @@ Astri is a multitool written by me, it contains many options that lead to many u
 
 
 ## :question: Support
-If you have any issues or need help, contantact me on discord 2loop#6969 or just join my server: https://discord.gg/PgNy2ZSQfj
+If you have any issues or need help, contantact me on discord 2loop#6969 or just join my server: https://discord.gg/XnRjFmgPYz
 
 
 ## :warning: Disclaimer
