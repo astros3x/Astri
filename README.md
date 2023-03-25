@@ -19,4 +19,4 @@ If you have any issues or need help, contantact me on discord 2loop#6969 or just
 
 
 ## :warning: Disclaimer
-Please note that the infos the information contained in this program is for educational purposes only and should not be used to unauthorized / illegal activities. The developer and contributors are not responsible for any misuse of this software.
+Please note that the infos and information contained in this program is for educational purposes only and should not be used to unauthorized / illegal activities. The developer and contributors are not responsible for any misuse of this software.
