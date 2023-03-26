@@ -15,7 +15,7 @@ I hope it will be useful, enjoy!    ![made-with-python](https://img.shields.io/b
 
 
 ## :question: Support
-If you have any issues or need help, contantact me on discord 2loop#6969 or just join my server: https://discord.gg/XnRjFmgPYz
+If you have any issues or need help, contantact me on discord 2loop#6969 or just join my [!discord server](https://discord.gg/XnRjFmgPYz)
 
 
 ## :warning: Disclaimer
