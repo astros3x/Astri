@@ -31,7 +31,7 @@ I hope it will be useful, enjoy!    ![made-with-python](https://img.shields.io/b
 * Emulators and Iso links.
 * Internet tools links.
 * Onion links.
-* C44rding links (read the disclaimer).
+* C44rding links.
 * General tools links.
 * Utilities links.
 * Misc/useful links.
