@@ -1,6 +1,6 @@
 <div align="center">
   
-# ASTRI
+# 💫 ASTRI 💫
   
   Star ⭐ if you want more
 </div>
