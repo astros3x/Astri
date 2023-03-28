@@ -14,6 +14,23 @@ I hope it will be useful, enjoy!    ![made-with-python](https://img.shields.io/b
 - Input the right number to interact with the menu.
 
 
+## 🗒️Features
+* Nitro generator.
+* Amazon store cards generator.
+* Ip Pinger
+* Cracking links
+* Straming links
+* Windows softwares cracking links
+* Discord tools links
+* Emulators and Iso links
+* Internet tools links
+* Onion links
+* Carding links (read the disclaimer)
+* General tools links
+* Utilities links
+* Misc/useful links 
+
+
 ## :question: Support
 If you have any issues or need help, contantact me on discord 2loop#6969 or just join my [server](https://discord.gg/XnRjFmgPYz).
 
