@@ -6,7 +6,7 @@
 </div>
 
 ## 📍 About
-Astri is a multitool written by me, it contains many options that lead to many useful sites and tools. It receives weekly updates. <br>
+Astri is a multitool written by me, it contains many options that lead to many useful sites && tools. It receives weekly updates. <br>
 I hope it will be useful, enjoy!    ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) ![version](https://img.shields.io/badge/python-3.9-green) ![platfrom](https://img.shields.io/badge/platform-windows-lightgrey)
 
 
