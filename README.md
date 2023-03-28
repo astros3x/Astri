@@ -4,7 +4,7 @@ Astri is a multitool written by me, it contains many options that lead to many u
 I hope it will be useful, enjoy!    ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) ![version](https://img.shields.io/badge/python-3.9-green) ![platfrom](https://img.shields.io/badge/platform-windows-lightgrey)
 
 
-![screen](https://user-images.githubusercontent.com/87500882/227728976-da90586a-5c99-4993-8d5a-5d8d37a00c50.png)
+![screen](https://user-images.githubusercontent.com/87500882/228268462-12f947db-2c07-4d52-9e5c-0b335c2bcae3.png)
 
 
 ## 💻 Usage
