@@ -17,18 +17,18 @@ I hope it will be useful, enjoy!    ![made-with-python](https://img.shields.io/b
 ## 🗒️Features
 * Nitro generator.
 * Amazon store cards generator.
-* Ip Pinger
-* Cracking links
-* Straming links
-* Windows softwares cracking links
-* Discord tools links
-* Emulators and Iso links
-* Internet tools links
-* Onion links
-* Carding links (read the disclaimer)
-* General tools links
-* Utilities links
-* Misc/useful links 
+* Ip Pinger.
+* Cracking links.
+* Straming links.
+* Windows softwares cracking links.
+* Discord tools links.
+* Emulators and Iso links.
+* Internet tools links.
+* Onion links.
+* Carding links (read the disclaimer).
+* General tools links.
+* Utilities links.
+* Misc/useful links.
 
 
 ## :question: Support
