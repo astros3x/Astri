@@ -1,6 +1,8 @@
 <div align="center">
+  
 # ASTRI
-  <b>Star ⭐ if you want more</b><br>
+  
+  Star ⭐ if you want more
 </div>
 ## 📍 About
 Astri is a multitool written by me, it contains many options that lead to many useful sites. Weekly updates. <br>
