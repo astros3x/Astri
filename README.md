@@ -1,4 +1,7 @@
-# Astri
+<p align='center'>
+# ASTRI
+  <b>Star ⭐ if you want more</b><br>
+</p>
 ## 📍 About
 Astri is a multitool written by me, it contains many options that lead to many useful sites. Weekly updates. <br>
 I hope it will be useful, enjoy!    ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) ![version](https://img.shields.io/badge/python-3.9-green) ![platfrom](https://img.shields.io/badge/platform-windows-lightgrey)
