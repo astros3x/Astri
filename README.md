@@ -39,6 +39,7 @@ I hope it will be useful, enjoy!    ![made-with-python](https://img.shields.io/b
 
 ## 👑 | VIP
 * Enter the [discord server](https://discord.gg/XnRjFmgPYz) to discover the VIP features of Astri multitool.
++ Preview >>> [screen](https://mega.nz/file/EspAGBrD#yGoUffug6_JRCgEMsLeNSfI40IKtiBPiugwuDJ9RTmY).
 
 
 ## :question: | Support
