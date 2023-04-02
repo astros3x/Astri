@@ -5,7 +5,7 @@
   Star ⭐ if you want more
 </div>
 
-## 📍 | About
+## 📍 About
 Astri is a multitool written by me, it contains many options that lead to many useful sites && tools. It receives weekly updates. <br>
 I hope it will be useful, enjoy!    ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) ![version](https://img.shields.io/badge/python-3.9-green) ![platfrom](https://img.shields.io/badge/platform-windows-lightgrey)
 
@@ -14,14 +14,14 @@ I hope it will be useful, enjoy!    ![made-with-python](https://img.shields.io/b
 
 
 
-## 💻 | Usage
+## 💻 Usage
 - Download the exe verions from the last [realese](https://github.com/astros3x/Astri/releases/).
 - Execute it.
 - The root password is: 'loop' (invisible input).
 - Input the right number to interact with the menu.
 
 
-## 🗒️ | Features
+## 🗒️ Features
 * Nitro generator.
 * Amazon store cards generator.
 * Ip Pinger.
@@ -37,7 +37,7 @@ I hope it will be useful, enjoy!    ![made-with-python](https://img.shields.io/b
 * Misc/useful links.
 
 
-## 👑 | VIP
+## 👑 VIP
 * Enter the [discord server](https://discord.gg/XnRjFmgPYz) to discover the VIP features of Astri multitool.
 + Preview >>> [screen](https://mega.nz/file/EspAGBrD#yGoUffug6_JRCgEMsLeNSfI40IKtiBPiugwuDJ9RTmY).
 
