@@ -6,19 +6,18 @@
 </div>
 
 ## 📍 About
-Astri is a multitool written by me, it contains many options that lead to many useful sites && tools. It receives weekly updates. <br>
-I hope it will be useful, enjoy!    ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) ![version](https://img.shields.io/badge/python-3.9-green) ![platfrom](https://img.shields.io/badge/platform-windows-lightgrey)
+Astri is a multitool written by me, it contains many options that lead to many useful sites && tools. It receives weekly updates. I hope it will be useful, enjoy!    ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) ![version](https://img.shields.io/badge/python-3.9-green) ![platfrom](https://img.shields.io/badge/platform-windows-lightgrey)
 
-
+<div align="center">
 ![screen](https://user-images.githubusercontent.com/87500882/228861158-34670774-55fd-4b4c-9e8b-1df1599bc766.png)
-
+</div>
 
 
 ## 💻 Usage
-- Download the exe verions from the last [realese](https://github.com/astros3x/Astri/releases/).
-- Execute it.
-- The root password is: 'loop' (invisible input).
-- Input the right number to interact with the menu.
+* Download the exe verions from the last [realese](https://github.com/astros3x/Astri/releases/).
+* Execute it.
+* The root password is: 'loop' (invisible input).
+* Input the right number to interact with the menu.
 
 
 ## 🗒️ Features
