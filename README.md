@@ -18,6 +18,8 @@ Astri is a multitool written by me, it contains many options that lead to many u
 * The root password is: 'loop' (invisible input).
 * Input the right number to interact with the menu.
 
+* [Showcase](https://youtu.be/AVpnfHaVXVU)
+
 
 ## 🗒️ Features
 * Nitro generator.
