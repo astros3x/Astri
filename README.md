@@ -2,7 +2,7 @@
   
 # 💫 ASTRI 💫
   
-  Star ⭐ if you want more
+  Star ⭐ if you want more <br>
   Join our [discord server](https://discord.gg/XnRjFmgPYz)
 </div>
 
