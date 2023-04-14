@@ -1,9 +1,7 @@
+<p align= center</p><a href="https://github.com/astros3x/Astri" target="_blank"><img src="https://imgur.com/a/XG5xxQr" alt="HazardNuker"></a>
 <div align="center">
-  
-# 💫 ASTRI 💫
-  
   Star ⭐ if you want more <br>
-  Join our [discord server](https://discord.gg/XnRjFmgPYz)
+  <a href="https://github.com/astros3x/Astri#-usage">Installation</a> | [discord](https://discord.gg/XnRjFmgPYz) | <a href="https://github.com/astros3x/Astri#warning-disclaimer">Disclaimer</a>
 </div>
 
 ## 📍 About
