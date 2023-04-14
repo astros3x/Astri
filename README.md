@@ -1,5 +1,5 @@
 <p align= center><a href="https://github.com/astros3x/Astri" target="_blank"><img src="https://i.imgur.com/i88FxMN.png" alt="Astri"></a></p>
-# 💫ASTRI💫
+## 💫 ASTRI 💫
 <div align="center">
   Star ⭐ if you want more <br>
   <a href="https://github.com/astros3x/Astri#-usage">Installation</a> | <a href="https://discord.gg/XnRjFmgPYz">Discord</a> | <a href="https://github.com/astros3x/Astri#warning-disclaimer">Disclaimer</a>
