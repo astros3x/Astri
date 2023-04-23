@@ -16,10 +16,10 @@ Astri is a multitool written in python, it contains many options that lead to ma
 
 
 ## 💻 Usage
-* Download the exe verions from the last [realese](https://github.com/astros3x/Astri/releases/).
-* Execute it.
-* The root password is: 'loop' (invisible input).
-* Input the right number to interact with the menu.
+* Download the exe verions from the last [realese](https://github.com/astros3x/Astri/releases/)
+* Execute it
+* The root password is: 'loop' (invisible input)
+* Input the right number to interact with the menu
 
 ## 🎬 Showcase
 * [YT Video](https://youtu.be/AVpnfHaVXVU)
