@@ -8,8 +8,6 @@
   <a href="https://github.com/astros3x/Astri#-usage">Installation</a> | <a href="https://discord.gg/XnRjFmgPYz">Discord</a> | <a href="https://github.com/astros3x/Astri#warning-disclaimer">Disclaimer</a> | <a href="https://github.com/astros3x/Astri#-vip">Vip</a>
 </div>
 
-!!THIS REPO IS TEMPORARILY DOWN, WILL RETURN WITHIN 24H. ENTER OUR DISCORD TO RECEIVES NEWS!!
-
 ## 📍 About
 Astri is a multitool written in python, it contains many options that lead to many useful sites && tools. It receives weekly updates. I hope it will be useful, enjoy!    ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) ![version](https://img.shields.io/badge/python-3.9-green) ![platfrom](https://img.shields.io/badge/platform-windows-lightgrey)
 
