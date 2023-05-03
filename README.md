@@ -18,6 +18,7 @@ Astri is a multitool written in python, it contains many options that lead to ma
 ## 💻 Usage
 * Download the exe verion from the latest [release](https://github.com/astros3x/Astri/releases/) / (TRUST ONLY THIS REPOSITORY)
 * Check if the `Astri.exe` hash matches to latest release hash
+* (The exe could be detected as malevolent due to the system how it is encrypted, in that case temporarily disable the main antivirus protections)
 * Execute it
 * The root password is: 'loop' (invisible input)
 * Input the right number to interact with the menu
