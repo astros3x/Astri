@@ -49,7 +49,7 @@ Astri is a multitool written in python, it contains many options that lead to ma
 
 ## 👾 Our discord server
 
-<iframe src="https://discord.com/widget?id=1086658100645351424&theme=THEME" width="WIDTH" height="HEIGHT" allowtransparency="true" frameborder="0"></iframe>
+<iframe src="https://discord.com/widget?id=1086658100645351424&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ## :question: Support
 If you have any issues or need help contantact 2loop#6969, CaptainBeluga#5006 on discord or just join our [server](https://discord.gg/XnRjFmgPYz).
