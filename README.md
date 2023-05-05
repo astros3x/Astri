@@ -48,6 +48,7 @@ Astri is a multitool written in python, it contains many options that lead to ma
 * Preview >>> [screen](https://mega.nz/file/EspAGBrD#yGoUffug6_JRCgEMsLeNSfI40IKtiBPiugwuDJ9RTmY).
 
 ## 👾 Our discord server
+
 <iframe src="https://discord.com/widget?id=1086658100645351424&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ## :question: Support
