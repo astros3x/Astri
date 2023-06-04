@@ -9,7 +9,7 @@
 </div>
 
 ## 📍 About
-Astri is a multitool written in python, it contains many options that lead to many useful sites & tools. It receives weekly updates. I hope it will be useful, enjoy!    ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) ![version](https://img.shields.io/badge/python-3.9-green) ![platfrom](https://img.shields.io/badge/platform-windows-lightgrey)
+Astri is a multitool written in python, it contains many options that lead to many useful sites & tools. It receives weekly updates. We hope it will be useful, enjoy!    ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) ![version](https://img.shields.io/badge/python-3.9-green) ![platfrom](https://img.shields.io/badge/platform-windows-lightgrey)
 
 
 ![astri](https://github.com/astros3x/Astri/assets/87500882/dd529de5-4071-4a4c-a552-bbb6d6506b84)
