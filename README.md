@@ -48,7 +48,7 @@ Astri is a multitool written in python, it contains many options that lead to ma
 * Preview >>> [screen](https://mega.nz/file/EspAGBrD#yGoUffug6_JRCgEMsLeNSfI40IKtiBPiugwuDJ9RTmY).
 
 ## :question: Support
-If you have any issues or need help contantact 2loop#6969, CaptainBeluga#5006 on discord or just join our [server](https://discord.gg/XnRjFmgPYz).
+If you have any issues or need help contact us in our [discord server](https://discord.gg/XnRjFmgPYz).
 
 ## :warning: Disclaimer
 Please note that the infos and information contained in this program is for educational purposes only and should not be used to unauthorized / illegal activities. The developer and contributors are not responsible for any misuse of this software.
