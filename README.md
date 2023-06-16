@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   Star ⭐ if you want more <br>
-  <a href="https://github.com/astros3x/Astri#-usage">Usage</a> | <a href="https://discord.gg/XnRjFmgPYz">Discord</a> | <a href="https://github.com/astros3x/Astri#warning-disclaimer">Disclaimer</a> | <a href="https://github.com/astros3x/Astri#-vip">Vip</a>
+  <a href="https://github.com/astros3x/Astri#-usage">Usage</a> | <a href="https://discord.gg/GyYDqW6s">Discord</a> | <a href="https://github.com/astros3x/Astri#warning-disclaimer">Disclaimer</a> | <a href="https://github.com/astros3x/Astri#-vip">Vip</a>
 </div>
 
 ## 📍 About
@@ -20,7 +20,7 @@ Astri is a multitool written in python, it contains many options that lead to ma
 * Check if the `Astri.exe` hash matches to latest release hash.
 * (The exe could be detected as malevolent due to the system how it is encrypted, in that case temporarily disable the main antivirus protections).
 * Execute it.
-* You can find the ROOT PASSWORD in our [ds server](https://discord.gg/astros3x) in 'astros3x-root' channel.
+* You can find the ROOT PASSWORD in our [ds server](https://discord.gg/GyYDqW6s) in 'astros3x-root' channel.
 * Input the right number to interact with the menu.
 
 ## 🎬 Showcase
@@ -44,7 +44,7 @@ Astri is a multitool written in python, it contains many options that lead to ma
 
 
 ## 👑 VIP
-* Enter the [discord server](https://discord.gg/XnRjFmgPYz) to discover the VIP features of Astri multitool.
+* Enter the [discord server](https://discord.gg/GyYDqW6s) to discover the VIP features of Astri multitool.
 * Preview >>> [screen](https://mega.nz/file/EspAGBrD#yGoUffug6_JRCgEMsLeNSfI40IKtiBPiugwuDJ9RTmY).
 
 ## :question: Support
