@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   Star ⭐ if you want more <br>
-  <a href="https://github.com/astros3x/Astri#-usage">Usage</a> | <a href="https://discord.gg/GyYDqW6s">Discord</a> | <a href="https://t.me/AstriNetwork">Telegram</a> | <a href="https://github.com/astros3x/Astri#warning-disclaimer">Disclaimer</a> | <a href="https://github.com/astros3x/Astri#-vip">Vip</a>
+  <a href="https://github.com/astros3x/Astri#-usage">Usage</a> | <a href="https://discord.gg/GyYDqW6s">Discord</a> | <a href="https://github.com/astros3x/Astri#warning-disclaimer">Disclaimer</a> | <a href="https://github.com/astros3x/Astri#-vip">Vip</a>
 </div>
 
 ## 📍 About
