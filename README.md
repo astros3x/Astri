@@ -20,7 +20,7 @@ Astri is a multitool written in python, it contains many options that lead to ma
 * Check if the `Astri.exe` hash matches to latest release hash.
 * (The exe could be detected as malevolent due to the system how it is encrypted, in that case temporarily disable the main antivirus protections).
 * Execute it.
-* You can find the ROOT PASSWORD in our [ds server](https://discord.gg/GyYDqW6s) in 'astros3x-root' channel.
+* You can generate your ROOT KEY in our [ds server](https://discord.gg/GDMVrNF8Gr) in 'astri-getkey' channel.
 * Input the right number to interact with the menu.
 
 ## 🎬 Showcase
