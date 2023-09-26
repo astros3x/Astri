@@ -48,10 +48,10 @@ Astri is a multitool written in python, it contains many options that lead to ma
 ## 👑 VIP
 * Enter the [discord server](https://discord.gg/GyYDqW6s) to discover the VIP features of Astri multitool.
 
-## :question: Support
+## 
 > [!IMPORTANT]
 > If you have any issues or need help contact us in our [discord server](https://discord.gg/XnRjFmgPYz).
 
-## :warning: Disclaimer
+## 
 > [!WARNING]
 > Please note that the infos and information contained in this program is for educational purposes only and should not be used to unauthorized / illegal activities. The developer and contributors are not responsible for any misuse of this software.
