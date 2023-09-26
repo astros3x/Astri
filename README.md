@@ -17,7 +17,6 @@ Astri is a multitool written in python, it contains many options that lead to ma
 
 ## 💻 Usage
 > [!NOTE]
-> 
 > * Download the exe verion from the latest [release](https://github.com/astros3x/Astri/releases/) / (TRUST ONLY THIS REPOSITORY).
 > * Check if the `Astri.exe` hash matches to latest release hash.
 > * (The exe could be detected as malevolent due to the system how it is encrypted, in that case temporarily disable the main antivirus protections).
@@ -30,26 +29,29 @@ Astri is a multitool written in python, it contains many options that lead to ma
 
 
 ## 🗒️ Features
-* Nitro generator.
-* Amazon store cards generator.
-* Ip Pinger.
-* Cracking links.
-* Straming links.
-* Windows softwares cracking links.
-* Discord tools links.
-* Emulators and Iso links.
-* Internet tools links.
-* Onion links.
-* General tools links.
-* Utilities links.
-* Misc/useful links.
+> [!NOTE]
+> * Nitro generator.
+> * Amazon store cards generator.
+> * Ip Pinger.
+> * Cracking links.
+> * Straming links.
+> * Windows softwares cracking links.
+> * Discord tools links.
+> * Emulators and Iso links.
+> * Internet tools links.
+> * Onion links.
+> * General tools links.
+> * Utilities links.
+> * Misc/useful links.
 
 
 ## 👑 VIP
 * Enter the [discord server](https://discord.gg/GyYDqW6s) to discover the VIP features of Astri multitool.
 
 ## :question: Support
-If you have any issues or need help contact us in our [discord server](https://discord.gg/XnRjFmgPYz).
+> [!IMPORTANT]
+> If you have any issues or need help contact us in our [discord server](https://discord.gg/XnRjFmgPYz).
 
 ## :warning: Disclaimer
-Please note that the infos and information contained in this program is for educational purposes only and should not be used to unauthorized / illegal activities. The developer and contributors are not responsible for any misuse of this software.
+> [!WARNING]
+> Please note that the infos and information contained in this program is for educational purposes only and should not be used to unauthorized / illegal activities. The developer and contributors are not responsible for any misuse of this software.
