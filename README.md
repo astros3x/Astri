@@ -5,48 +5,61 @@
 </div>
 <div align="center">
   Star ⭐ if you want more <br>
-  <a href="https://github.com/astros3x/Astri#-usage">Usage</a> | <a href="https://discord.gg/GDMVrNF8Gr">Discord</a> | <a href="https://github.com/astros3x/Astri#warning-disclaimer">Disclaimer</a> | <a href="https://github.com/astros3x/Astri#-vip">Vip</a>
+  <a href="https://github.com/astros3x/Astri#-usage">Usage</a> | <a href="https://discord.gg/GDMVrNF8Gr">Discord</a> | <a href="https://github.com/astros3x/Astri#warning-disclaimer">Disclaimer</a>
 </div>
 
 ## 📍 About
-Astri is a multitool written in python, it contains many options that lead to many useful sites & tools. It receives weekly updates. We hope it will be useful, enjoy!    ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) ![version](https://img.shields.io/badge/python-3.9-green) ![platfrom](https://img.shields.io/badge/platform-windows-lightgrey)
+Astri is a multitool written in python, it contains many options that lead to many useful sites & tools. ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) ![version](https://img.shields.io/badge/python-3.9-green) ![platfrom](https://img.shields.io/badge/platform-windows-lightgrey)
 
-
-![astri](https://github.com/astros3x/Astri/assets/87500882/dd529de5-4071-4a4c-a552-bbb6d6506b84)
-
+![astri](https://github.com/astros3x/Astri/assets/87500882/4dec991d-8663-4c09-9b03-316bb660a361)
 
 ## 💻 Usage
-> [!NOTE]
-> * Download the exe verion from the latest [release](https://github.com/astros3x/Astri/releases/) / (TRUST ONLY THIS REPOSITORY).
-> * Check if the `Astri.exe` hash matches to latest release hash.
-> * (The exe could be detected as malevolent due to the system how it is encrypted, in that case temporarily disable the main antivirus protections).
-> * Execute it.
-> * You can generate your ROOT KEY in our [ds server](https://discord.gg/GDMVrNF8Gr) in 'astri-getkey' channel.
-> * Input the right number to interact with the menu.
-
-## 🎬 Showcase
-* [YT Video](https://youtu.be/AVpnfHaVXVU), (old)
+* Download the exe verion from the latest [release](https://github.com/astros3x/Astri/releases/) / (TRUST ONLY THIS REPOSITORY).
+* Check if the `Astri.exe` hash matches to latest release hash.
+* (The exe could be detected as malevolent due to the system how it is encrypted, in that case temporarily disable the main antivirus protections).
+* Execute it.
+* Login with your license.
+* Input the right number to interact with the menu.
 
 
 ## 🗒️ Features
-> [!NOTE]
-> * Nitro generator.
-> * Amazon store cards generator.
-> * Ip Pinger.
-> * Cracking links.
-> * Straming links.
-> * Windows softwares cracking links.
-> * Discord tools links.
-> * Emulators and Iso links.
-> * Internet tools links.
-> * Onion links.
-> * General tools links.
-> * Utilities links.
-> * Misc/useful links.
-
-
-## 👑 VIP
-* Enter the [discord server](https://discord.gg/GyYDqW6s) to discover the VIP features of Astri multitool.
+* Tools
+  * Windows activator
+  * Nitro generator
+  * CC gen from Bin
+  * Walmart SC genarator
+  * Bestbuy sc genarator
+  * Amazon SC genarator
+  * CC genarator
+  * CC checker
+  * Ip pinger
+  * Yt video downloader (mp3/m4)
+  * Password generator
+  * URL shorter
+  * Kahoot hacks
+  * Ds profile grabber
+  * Ds token validator
+  * Ds token logger
+  * Linkvertise bypasser
+  * Proxy scraper
+* Cracking links
+  * Games
+  * Apps
+  * Softwares  
+* Leaks
+* Cheats links
+  * Menus
+  * Resellers
+* Streaming links
+* Emu / Iso links
+* Onion links
+* Emulators and Iso links
+* Internet tools links
+* Onion links
+* Utilities links
+* Discord links
+* Windows links
+* Miscellaneous links
 
 ## 
 > [!IMPORTANT]
