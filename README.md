@@ -15,7 +15,7 @@ Astri is a multitool written in python, it contains many options that lead to ma
 
 
 ## 💻 Usage
-* Download the exe verion from the latest [release](https://github.com/astros3x/Astri/releases/) / (TRUST ONLY THIS REPOSITORY).
+* Download the exe.
 * Check if the `Astri.exe` hash matches to latest release hash.
 * (The exe could be detected as malevolent due to the system how it is encrypted, in that case temporarily disable the main antivirus protections).
 * Keep everything in `Astri` folder
