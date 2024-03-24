@@ -11,8 +11,9 @@
 ## 📍 About
 Astri is a multitool written in python, it contains many options that lead to many useful sites & tools. ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) ![version](https://img.shields.io/badge/python-3.9-green) ![platfrom](https://img.shields.io/badge/platform-windows-lightgrey)
 
-![astri3](https://github.com/astros3x/Astri/assets/87500882/d3495feb-6b61-4515-81d5-89d999cb7e35)
-
+<div align="center">
+ <img src="https://github.com/astros3x/Astri/assets/87500882/d3495feb-6b61-4515-81d5-89d999cb7e35"></img>
+</div>
 
 ## 💻 Usage
 * Download the exe.
