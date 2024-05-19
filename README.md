@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   Star ⭐ our project<br>
-  <a href="https://github.com/astros3x/Astri/wiki">More information</a> | <a href="https://discord.gg/GDMVrNF8Gr">Discord</a>
+  <a href="https://github.com/astros3x/Astri/wiki">More information</a> | <a href="https://discord.gg/GDMVrNF8Gr">Discord</a> | <a href = "https://youtu.be/5Xs70xkVzXM">Showcase</a>
 </div>
 
 ## 📍 About
@@ -51,3 +51,6 @@ Astri is a multitool written in python, it contains tools with different applica
 * Discord links
 * Windows links
 * Miscellaneous links
+
+## 🎬 Showcase
+Watch the showcase on youtube > [CLICK HERE](https://youtu.be/5Xs70xkVzXM)
