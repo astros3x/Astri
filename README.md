@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   Star ⭐ our project<br>
-  <a href="https://github.com/astros3x/Astri/wiki">More information</a> | <a href="discord.gg/v3ywWGPZQS">Discord</a> | <a href = "https://youtu.be/5Xs70xkVzXM">Showcase</a>
+  <a href="https://github.com/astros3x/Astri/wiki">More information</a> | <a href="htpps://discord.gg/v3ywWGPZQS">Discord</a> | <a href = "https://youtu.be/5Xs70xkVzXM">Showcase</a>
 </div>
 
 ## 📍 About
