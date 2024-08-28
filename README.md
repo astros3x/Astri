@@ -44,7 +44,6 @@ Astri is a multitool written in python, it contains tools with different applica
   * Menus
   * Resellers
 * Streaming links
-* Emu / Iso links
 * Onion links
 * Emulators and Iso links
 * Utilities links
