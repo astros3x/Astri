@@ -50,6 +50,3 @@ Astri is a multitool written in python, it contains tools with different applica
 * Discord links
 * Windows links
 * Miscellaneous links
-
-## 🎬 Showcase
-Watch the showcase on youtube > [CLICK HERE](https://youtu.be/5Xs70xkVzXM)
